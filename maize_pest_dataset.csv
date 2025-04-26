@@ -1,0 +1,534 @@
+Pest,Season/Month,Location/Region,Crop Stage Affected,Trigger Condition,Severity Level,Notes
+Fall Armyworm,March–May,Central,Silking,Sowing after extended drought,Low,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Oct–Nov,Eastern,Silking,Night temps > 18°C and green maize,Low,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Feb–April,Western Kenya,Seedling,Dense weedy fields,High,Infestation rises in dry-hot coastal areas
+Locust,Sept–Dec,Eastern,Seedling,Unusual wind patterns,Low,Delayed response worsened outbreak
+Corn Earworm,Oct–Nov,Western Kenya,Germination,Monocropping with no IPM,Low,"Feeds at night, hides during day"
+Fall Armyworm,March–May,Eastern,Vegetative,March–May rains after long dry season,Low,Eggs often missed in early crop stages
+Fall Armyworm,Sept–Dec,Eastern,Maturity,March–May rains after long dry season,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,March–May,Western Kenya,Vegetative,Presence of alternate hosts,Medium,Eggs often missed in early crop stages
+Corn Earworm,Jan–March,Rift Valley,Vegetative,No rotation with legumes or beans,Low,Eggs laid directly on silks
+Corn Earworm,Jan–March,Central,Germination,Monocropping with no IPM,Low,Kernel damage often seen late
+Fall Armyworm,March–May,Central,Silking,March–May rains after long dry season,Low,Eggs often missed in early crop stages
+Corn Earworm,Oct–Nov,Coastal,Maturity,No rotation with legumes or beans,Low,Larvae feed on silks and kernels
+Fall Armyworm,Feb–April,Central,Vegetative,Warm temperatures with intermittent rain,Medium,Eggs often missed in early crop stages
+Locust,Jan–March,ASAL areas,Silking,Breeding triggered by cyclone rains in Somalia,High,Delayed response worsened outbreak
+Fall Armyworm,Jan–March,Western Kenya,Maturity,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Fall Armyworm,Sept–Dec,Central,Germination,Presence of alternate hosts,Medium,Rapid larval spread in vegetative phase
+Corn Earworm,March–May,Coastal,Tasseling,Dense weedy fields,High,Kernel damage often seen late
+Fall Armyworm,Jan–March,ASAL areas,Seedling,Presence of alternate hosts,Medium,Eggs often missed in early crop stages
+Fall Armyworm,Oct–Nov,Central,Grain filling,Night temps > 18°C and green maize,Low,Infestation reported at 47.3% in 2017 outbreak
+Corn Earworm,Sept–Dec,Rift Valley,Grain filling,Delayed planting,High,Eggs laid directly on silks
+Fall Armyworm,Oct–Nov,Nyanza,Tasseling,March–May rains after long dry season,Low,Losses exceeded 40% in some regions
+Corn Earworm,Jan–March,ASAL areas,Tasseling,Delayed planting,High,Pesticide resistance risk
+Corn Earworm,Feb–April,Western Kenya,Vegetative,Warm dry spells after rains,Medium,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,Feb–April,Eastern,Vegetative,Warm temperatures with intermittent rain,Medium,Larvae bore into whorl and damage leaves
+Fall Armyworm,Aug–Oct,Nyanza,Silking,Sowing after extended drought,Low,"Preferred cool, cloudy environments in outbreak year"
+Locust,Oct–Nov,Eastern,Germination,Rains coincided with hopper development,Low,High impact on both pasture and crops
+Fall Armyworm,Aug–Oct,Central,Maturity,Dry spells followed by rainfall,Low,Infestation reported at 47.3% in 2017 outbreak
+Corn Earworm,March–May,Coastal,Seedling,Monocropping with no IPM,Low,Outbreaks in Kilifi linked to continuous cropping
+Locust,March–May,Coastal,Germination,Breeding triggered by cyclone rains in Somalia,High,Second-gen breeding in Turkana and Marsabit
+Locust,Feb–April,Rift Valley,Tasseling,Cross-border swarm movement,Very High,Delayed response worsened outbreak
+Locust,Oct–Nov,Nyanza,Germination,Hoppers matured in dry sandy soils,High,Eggs laid in sandy soils
+Locust,Jan–March,Nyanza,Germination,Delayed aerial spraying during outbreak,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,Eastern,Tasseling,Cyclones followed by dry winds,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,March–May,Rift Valley,Silking,Dry spells followed by rainfall,Low,Migrates during dry to wet transitions
+Corn Earworm,March–May,Nyanza,Silking,No rotation with legumes or beans,Low,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,Oct–Nov,Western Kenya,Silking,Dry spells followed by rainfall,Low,Migrates during dry to wet transitions
+Fall Armyworm,Aug–Oct,Coastal,Germination,Delayed weeding and unscouted farms,High,Migrates during dry to wet transitions
+Fall Armyworm,March–May,Coastal,Seedling,Heavy vegetative growth during rainy season,High,Rapid larval spread in vegetative phase
+Locust,Feb–April,Coastal,Germination,Rains coincided with hopper development,Low,Delayed response worsened outbreak
+Locust,Feb–April,Rift Valley,Silking,Breeding triggered by cyclone rains in Somalia,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Sept–Dec,Nyanza,Grain filling,Dense weedy fields,High,Pesticide resistance risk
+Corn Earworm,Jan–March,ASAL areas,Vegetative,Repeated planting in same zone,Low,Pesticide resistance risk
+Locust,Sept–Dec,Nyanza,Germination,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,Rift Valley,Seedling,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Corn Earworm,Feb–April,Western Kenya,Tasseling,Monocropping with no IPM,Low,Eggs laid directly on silks
+Fall Armyworm,Jan–March,Western Kenya,Tasseling,Warm temperatures with intermittent rain,Medium,Larvae bore into whorl and damage leaves
+Corn Earworm,Sept–Dec,Rift Valley,Vegetative,Alternate hosts nearby (e.g. sorghum),Medium,Infestation spreads from alternate hosts
+Locust,Jan–March,Rift Valley,Seedling,Delayed aerial spraying during outbreak,High,Eggs laid in sandy soils
+Locust,March–May,ASAL areas,Tasseling,Migration from breeding zones,High,Third wave likely if hoppers mature
+Fall Armyworm,March–May,Coastal,Germination,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Oct–Nov,Western Kenya,Silking,Dense weedy fields,High,Kernel damage often seen late
+Fall Armyworm,Oct–Nov,Nyanza,Vegetative,March–May rains after long dry season,Low,Rapid larval spread in vegetative phase
+Corn Earworm,Feb–April,Rift Valley,Maturity,No rotation with legumes or beans,Low,Eggs laid directly on silks
+Corn Earworm,Feb–April,Central,Seedling,Repeated planting in same zone,Low,Infestation spreads from alternate hosts
+Corn Earworm,Aug–Oct,Coastal,Germination,Silking coinciding with warm spells,Medium,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,Jan–March,Eastern,Germination,Heavy vegetative growth during rainy season,High,Rapid larval spread in vegetative phase
+Locust,Aug–Oct,ASAL areas,Vegetative,Rains coincided with hopper development,Low,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,Sept–Dec,Western Kenya,Silking,Warm temperatures with intermittent rain,Medium,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Aug–Oct,Western Kenya,Tasseling,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Jan–March,Western Kenya,Seedling,Dry spells followed by rainfall,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Aug–Oct,Nyanza,Grain filling,Night temps > 18°C and green maize,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Oct–Nov,ASAL areas,Maturity,Delayed weeding and unscouted farms,High,Rapid larval spread in vegetative phase
+Locust,March–May,Eastern,Germination,Delayed aerial spraying during outbreak,High,Eggs laid in sandy soils
+Fall Armyworm,Jan–March,Western Kenya,Tasseling,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Aug–Oct,Coastal,Maturity,Humidity and poor air flow in dense fields,High,Outbreaks in Kilifi linked to continuous cropping
+Locust,Oct–Nov,Nyanza,Tasseling,Cyclones followed by dry winds,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Oct–Nov,Coastal,Grain filling,Dense weedy fields,High,Kernel damage often seen late
+Fall Armyworm,March–May,Eastern,Grain filling,Delayed weeding and unscouted farms,High,Eggs often missed in early crop stages
+Corn Earworm,March–May,Eastern,Tasseling,Dense weedy fields,High,Larvae feed on silks and kernels
+Fall Armyworm,Aug–Oct,Coastal,Vegetative,Presence of alternate hosts,Medium,Moth lays eggs on undersides of leaves
+Corn Earworm,Oct–Nov,Central,Tasseling,Warm dry spells after rains,Medium,Pesticide resistance risk
+Corn Earworm,Feb–April,Rift Valley,Grain filling,Dense weedy fields,High,Kernel damage often seen late
+Locust,Jan–March,ASAL areas,Vegetative,Vegetation boom after rain,High,Eggs laid in sandy soils
+Fall Armyworm,March–May,Eastern,Vegetative,Warm temperatures with intermittent rain,Medium,Losses exceeded 40% in some regions
+Corn Earworm,Jan–March,Eastern,Germination,Repeated planting in same zone,Low,Kernel damage often seen late
+Locust,Sept–Dec,Western Kenya,Tasseling,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Corn Earworm,March–May,Nyanza,Grain filling,Delayed planting,High,"Feeds at night, hides during day"
+Fall Armyworm,March–May,Eastern,Grain filling,Warm temperatures with intermittent rain,Medium,Rapid larval spread in vegetative phase
+Fall Armyworm,Aug–Oct,Eastern,Tasseling,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Jan–March,Rift Valley,Seedling,Repeated planting in same zone,Low,Pesticide resistance risk
+Fall Armyworm,Oct–Nov,Nyanza,Silking,Sowing after extended drought,Low,Losses exceeded 40% in some regions
+Fall Armyworm,Aug–Oct,Nyanza,Vegetative,Cloud cover and poor weeding,Low,Rapid larval spread in vegetative phase
+Corn Earworm,Oct–Nov,Coastal,Germination,Warm dry spells after rains,Medium,Pesticide resistance risk
+Fall Armyworm,Oct–Nov,Rift Valley,Grain filling,March–May rains after long dry season,Low,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Oct–Nov,Central,Seedling,High temp + maize silking,Low,Larvae feed on silks and kernels
+Locust,Sept–Dec,Nyanza,Seedling,Breeding triggered by cyclone rains in Somalia,High,Eggs laid in sandy soils
+Corn Earworm,March–May,Rift Valley,Silking,No rotation with legumes or beans,Low,Eggs laid directly on silks
+Locust,Jan–March,Coastal,Maturity,Unusual wind patterns,Low,Third wave likely if hoppers mature
+Locust,Aug–Oct,Coastal,Silking,Cross-border swarm movement,Very High,Delayed response worsened outbreak
+Locust,March–May,Coastal,Germination,Delayed aerial spraying during outbreak,High,Delayed response worsened outbreak
+Locust,Sept–Dec,Eastern,Tasseling,Rains coincided with hopper development,Low,Swarms fly up to 150km/day
+Corn Earworm,Jan–March,Nyanza,Silking,High temp + maize silking,Low,Outbreaks in Kilifi linked to continuous cropping
+Locust,Oct–Nov,Nyanza,Germination,Unusual wind patterns,Low,Third wave likely if hoppers mature
+Locust,Oct–Nov,Western Kenya,Grain filling,Migration from breeding zones,High,Second-gen breeding in Turkana and Marsabit
+Locust,Jan–March,ASAL areas,Grain filling,Unusual wind patterns,Low,High impact on both pasture and crops
+Corn Earworm,Sept–Dec,Coastal,Seedling,High temp + maize silking,Low,"Feeds at night, hides during day"
+Locust,March–May,ASAL areas,Seedling,Breeding triggered by cyclone rains in Somalia,High,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,Sept–Dec,Nyanza,Seedling,Delayed weeding and unscouted farms,High,Losses exceeded 40% in some regions
+Fall Armyworm,Oct–Nov,Eastern,Seedling,Overlapping maize stages in same field,Low,Eggs often missed in early crop stages
+Corn Earworm,Aug–Oct,Coastal,Seedling,Repeated planting in same zone,Low,Infestation rises in dry-hot coastal areas
+Fall Armyworm,Sept–Dec,Western Kenya,Maturity,Cloud cover and poor weeding,Low,Moth lays eggs on undersides of leaves
+Locust,Sept–Dec,Rift Valley,Tasseling,Breeding triggered by cyclone rains in Somalia,High,Swarms fly up to 150km/day
+Locust,Aug–Oct,ASAL areas,Seedling,Cyclones followed by dry winds,High,Isiolo and Garissa hit hardest in 2020
+Corn Earworm,Sept–Dec,Nyanza,Seedling,Dense weedy fields,High,Larvae feed on silks and kernels
+Locust,Aug–Oct,Nyanza,Grain filling,Delayed aerial spraying during outbreak,High,Isiolo and Garissa hit hardest in 2020
+Locust,Oct–Nov,Central,Germination,Cross-border swarm movement,Very High,Isiolo and Garissa hit hardest in 2020
+Corn Earworm,Feb–April,Nyanza,Vegetative,Warm dry spells after rains,Medium,Pesticide resistance risk
+Fall Armyworm,Jan–March,Central,Vegetative,Cloud cover and poor weeding,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Sept–Dec,Nyanza,Germination,Overlapping maize stages in same field,Low,Infestation reported at 47.3% in 2017 outbreak
+Locust,Oct–Nov,Eastern,Germination,Cross-border swarm movement,Very High,Delayed response worsened outbreak
+Corn Earworm,March–May,Rift Valley,Vegetative,High temp + maize silking,Low,Infestation spreads from alternate hosts
+Fall Armyworm,Aug–Oct,Eastern,Seedling,Delayed weeding and unscouted farms,High,Rapid larval spread in vegetative phase
+Fall Armyworm,Aug–Oct,Coastal,Maturity,Warm temperatures with intermittent rain,Medium,Eggs often missed in early crop stages
+Fall Armyworm,March–May,ASAL areas,Maturity,Night temps > 18°C and green maize,Low,Moth lays eggs on undersides of leaves
+Corn Earworm,March–May,Nyanza,Tasseling,High temp + maize silking,Low,Kernel damage often seen late
+Locust,Jan–March,Nyanza,Grain filling,Rains coincided with hopper development,Low,Swarms fly up to 150km/day
+Fall Armyworm,March–May,Coastal,Silking,Delayed weeding and unscouted farms,High,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Jan–March,Central,Tasseling,Silking coinciding with warm spells,Medium,Larvae feed on silks and kernels
+Locust,March–May,Rift Valley,Silking,Heavy rains in desert areas,High,Eggs laid in sandy soils
+Corn Earworm,Oct–Nov,Western Kenya,Silking,Alternate hosts nearby (e.g. sorghum),Medium,Outbreaks in Kilifi linked to continuous cropping
+Locust,Sept–Dec,Western Kenya,Vegetative,Breeding triggered by cyclone rains in Somalia,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,ASAL areas,Seedling,Breeding triggered by cyclone rains in Somalia,High,Third wave likely if hoppers mature
+Corn Earworm,Oct–Nov,Nyanza,Maturity,Silking coinciding with warm spells,Medium,Outbreaks in Kilifi linked to continuous cropping
+Locust,Jan–March,Nyanza,Grain filling,Cyclones followed by dry winds,High,Swarms consumed over 100 tons of vegetation per day
+Corn Earworm,Sept–Dec,Rift Valley,Seedling,No rotation with legumes or beans,Low,Larvae feed on silks and kernels
+Corn Earworm,Sept–Dec,ASAL areas,Vegetative,Dense weedy fields,High,Kernel damage often seen late
+Locust,Feb–April,Eastern,Germination,Breeding triggered by cyclone rains in Somalia,High,Delayed response worsened outbreak
+Corn Earworm,Jan–March,ASAL areas,Seedling,Warm dry spells after rains,Medium,Infestation spreads from alternate hosts
+Locust,Sept–Dec,ASAL areas,Germination,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Locust,Jan–March,ASAL areas,Vegetative,Hoppers matured in dry sandy soils,High,Delayed response worsened outbreak
+Locust,March–May,Western Kenya,Tasseling,Cyclones followed by dry winds,High,Second-gen breeding in Turkana and Marsabit
+Locust,March–May,Coastal,Tasseling,Cross-border swarm movement,Very High,Swarms fly up to 150km/day
+Corn Earworm,Jan–March,Nyanza,Maturity,No rotation with legumes or beans,Low,"Feeds at night, hides during day"
+Fall Armyworm,March–May,Central,Seedling,Dry spells followed by rainfall,Low,Rapid larval spread in vegetative phase
+Corn Earworm,Aug–Oct,Eastern,Silking,Alternate hosts nearby (e.g. sorghum),Medium,Infestation spreads from alternate hosts
+Locust,Aug–Oct,Rift Valley,Silking,Migration from breeding zones,High,Swarms fly up to 150km/day
+Locust,March–May,Coastal,Tasseling,Delayed aerial spraying during outbreak,High,High impact on both pasture and crops
+Fall Armyworm,Aug–Oct,Coastal,Vegetative,Night temps > 18°C and green maize,Low,Rapid larval spread in vegetative phase
+Corn Earworm,March–May,Rift Valley,Germination,Silking coinciding with warm spells,Medium,Infestation spreads from alternate hosts
+Locust,Jan–March,Coastal,Seedling,Heavy rains in desert areas,High,Delayed response worsened outbreak
+Corn Earworm,Feb–April,ASAL areas,Vegetative,Humidity and poor air flow in dense fields,High,"Feeds at night, hides during day"
+Corn Earworm,Oct–Nov,Central,Grain filling,High temp + maize silking,Low,Larvae feed on silks and kernels
+Locust,Feb–April,Nyanza,Germination,Hoppers matured in dry sandy soils,High,Swarms consumed over 100 tons of vegetation per day
+Corn Earworm,Aug–Oct,Rift Valley,Silking,Humidity and poor air flow in dense fields,High,Infestation spreads from alternate hosts
+Corn Earworm,Sept–Dec,Coastal,Seedling,High temp + maize silking,Low,Infestation rises in dry-hot coastal areas
+Corn Earworm,Aug–Oct,Western Kenya,Grain filling,Warm dry spells after rains,Medium,Outbreaks in Kilifi linked to continuous cropping
+Locust,Feb–April,Eastern,Maturity,Unusual wind patterns,Low,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,Rift Valley,Seedling,Breeding triggered by cyclone rains in Somalia,High,Delayed response worsened outbreak
+Fall Armyworm,Oct–Nov,Western Kenya,Maturity,Overlapping maize stages in same field,Low,Rapid larval spread in vegetative phase
+Corn Earworm,Feb–April,Coastal,Germination,Delayed planting,High,Infestation spreads from alternate hosts
+Corn Earworm,March–May,Rift Valley,Seedling,Humidity and poor air flow in dense fields,High,Kernel damage often seen late
+Fall Armyworm,Sept–Dec,Eastern,Vegetative,March–May rains after long dry season,Low,Migrates during dry to wet transitions
+Fall Armyworm,Feb–April,Eastern,Tasseling,Night temps > 18°C and green maize,Low,Migrates during dry to wet transitions
+Corn Earworm,Jan–March,Western Kenya,Tasseling,Silking coinciding with warm spells,Medium,Larvae feed on silks and kernels
+Fall Armyworm,Jan–March,Eastern,Seedling,March–May rains after long dry season,Low,Eggs often missed in early crop stages
+Fall Armyworm,Sept–Dec,ASAL areas,Silking,Cloud cover and poor weeding,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Sept–Dec,Eastern,Tasseling,Heavy vegetative growth during rainy season,High,Eggs often missed in early crop stages
+Locust,Feb–April,Western Kenya,Grain filling,Cross-border swarm movement,Very High,High impact on both pasture and crops
+Corn Earworm,Jan–March,Rift Valley,Germination,Silking coinciding with warm spells,Medium,Larvae feed on silks and kernels
+Fall Armyworm,Oct–Nov,Nyanza,Vegetative,Night temps > 18°C and green maize,Low,Rapid larval spread in vegetative phase
+Fall Armyworm,Jan–March,Nyanza,Seedling,Delayed weeding and unscouted farms,High,Migrates during dry to wet transitions
+Fall Armyworm,March–May,Rift Valley,Maturity,March–May rains after long dry season,Low,Eggs often missed in early crop stages
+Locust,March–May,Eastern,Tasseling,Migration from breeding zones,High,Isiolo and Garissa hit hardest in 2020
+Locust,Jan–March,Nyanza,Tasseling,Vegetation boom after rain,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Oct–Nov,Coastal,Germination,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Locust,Jan–March,Western Kenya,Tasseling,Heavy rains in desert areas,High,Swarms fly up to 150km/day
+Corn Earworm,Aug–Oct,ASAL areas,Maturity,Monocropping with no IPM,Low,Infestation spreads from alternate hosts
+Fall Armyworm,Aug–Oct,Central,Seedling,Presence of alternate hosts,Medium,Eggs often missed in early crop stages
+Locust,March–May,Rift Valley,Seedling,Breeding triggered by cyclone rains in Somalia,High,Delayed response worsened outbreak
+Fall Armyworm,Oct–Nov,Eastern,Seedling,March–May rains after long dry season,Low,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,March–May,Eastern,Seedling,Silking coinciding with warm spells,Medium,Infestation spreads from alternate hosts
+Fall Armyworm,Aug–Oct,Rift Valley,Tasseling,Overlapping maize stages in same field,Low,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Sept–Dec,ASAL areas,Germination,Overlapping maize stages in same field,Low,Rapid larval spread in vegetative phase
+Fall Armyworm,Oct–Nov,Coastal,Germination,Presence of alternate hosts,Medium,Moth lays eggs on undersides of leaves
+Corn Earworm,March–May,Rift Valley,Germination,Repeated planting in same zone,Low,Eggs laid directly on silks
+Corn Earworm,March–May,Eastern,Grain filling,Humidity and poor air flow in dense fields,High,Pesticide resistance risk
+Fall Armyworm,Jan–March,Rift Valley,Seedling,Delayed weeding and unscouted farms,High,Losses exceeded 40% in some regions
+Fall Armyworm,Aug–Oct,Western Kenya,Tasseling,Cloud cover and poor weeding,Low,Larvae bore into whorl and damage leaves
+Corn Earworm,Feb–April,Western Kenya,Maturity,Dense weedy fields,High,Outbreaks in Kilifi linked to continuous cropping
+Corn Earworm,Sept–Dec,Rift Valley,Seedling,Alternate hosts nearby (e.g. sorghum),Medium,Pesticide resistance risk
+Corn Earworm,Oct–Nov,Rift Valley,Seedling,Alternate hosts nearby (e.g. sorghum),Medium,Kernel damage often seen late
+Fall Armyworm,March–May,Nyanza,Germination,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Oct–Nov,Central,Vegetative,Overlapping maize stages in same field,Low,Migrates during dry to wet transitions
+Locust,Aug–Oct,Coastal,Silking,Cyclones followed by dry winds,High,High impact on both pasture and crops
+Fall Armyworm,March–May,Nyanza,Tasseling,Warm temperatures with intermittent rain,Medium,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Aug–Oct,Central,Seedling,Sowing after extended drought,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Aug–Oct,Western Kenya,Tasseling,Delayed weeding and unscouted farms,High,Rapid larval spread in vegetative phase
+Corn Earworm,Aug–Oct,Nyanza,Germination,No rotation with legumes or beans,Low,Kernel damage often seen late
+Corn Earworm,Aug–Oct,Rift Valley,Grain filling,Humidity and poor air flow in dense fields,High,"Feeds at night, hides during day"
+Fall Armyworm,Aug–Oct,Rift Valley,Seedling,Warm temperatures with intermittent rain,Medium,Moth lays eggs on undersides of leaves
+Fall Armyworm,Aug–Oct,Rift Valley,Vegetative,Presence of alternate hosts,Medium,Losses exceeded 40% in some regions
+Locust,Oct–Nov,ASAL areas,Silking,Cross-border swarm movement,Very High,Swarms fly up to 150km/day
+Fall Armyworm,Feb–April,Coastal,Vegetative,Warm temperatures with intermittent rain,Medium,Losses exceeded 40% in some regions
+Fall Armyworm,Jan–March,Nyanza,Vegetative,Delayed weeding and unscouted farms,High,Larvae bore into whorl and damage leaves
+Fall Armyworm,Oct–Nov,Nyanza,Silking,Night temps > 18°C and green maize,Low,Losses exceeded 40% in some regions
+Fall Armyworm,March–May,Western Kenya,Tasseling,Night temps > 18°C and green maize,Low,Eggs often missed in early crop stages
+Locust,Sept–Dec,Western Kenya,Silking,Unusual wind patterns,Low,Third wave likely if hoppers mature
+Corn Earworm,Oct–Nov,Western Kenya,Vegetative,Monocropping with no IPM,Low,"Feeds at night, hides during day"
+Locust,Aug–Oct,Coastal,Grain filling,Delayed aerial spraying during outbreak,High,Eggs laid in sandy soils
+Corn Earworm,Aug–Oct,Coastal,Grain filling,Delayed planting,High,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,Oct–Nov,ASAL areas,Maturity,Warm temperatures with intermittent rain,Medium,Migrates during dry to wet transitions
+Corn Earworm,Jan–March,Rift Valley,Grain filling,Warm dry spells after rains,Medium,Infestation rises in dry-hot coastal areas
+Fall Armyworm,March–May,Nyanza,Tasseling,Presence of alternate hosts,Medium,Losses exceeded 40% in some regions
+Locust,Sept–Dec,Western Kenya,Vegetative,Breeding triggered by cyclone rains in Somalia,High,Third wave likely if hoppers mature
+Corn Earworm,Sept–Dec,Western Kenya,Silking,Silking coinciding with warm spells,Medium,Kernel damage often seen late
+Locust,Sept–Dec,Rift Valley,Tasseling,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Fall Armyworm,Oct–Nov,ASAL areas,Seedling,Presence of alternate hosts,Medium,Migrates during dry to wet transitions
+Locust,Jan–March,Coastal,Silking,Hoppers matured in dry sandy soils,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Aug–Oct,ASAL areas,Maturity,Delayed planting,High,Pesticide resistance risk
+Fall Armyworm,Feb–April,Coastal,Germination,Presence of alternate hosts,Medium,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Feb–April,Nyanza,Silking,Delayed planting,High,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,Aug–Oct,Rift Valley,Germination,Warm temperatures with intermittent rain,Medium,Rapid larval spread in vegetative phase
+Corn Earworm,Jan–March,Eastern,Silking,Dense weedy fields,High,Larvae feed on silks and kernels
+Locust,March–May,Eastern,Silking,Unusual wind patterns,Low,Second-gen breeding in Turkana and Marsabit
+Locust,Jan–March,ASAL areas,Tasseling,Vegetation boom after rain,High,Eggs laid in sandy soils
+Fall Armyworm,Sept–Dec,Coastal,Seedling,Night temps > 18°C and green maize,Low,Larvae bore into whorl and damage leaves
+Corn Earworm,Feb–April,ASAL areas,Grain filling,Dense weedy fields,High,Infestation spreads from alternate hosts
+Locust,Oct–Nov,ASAL areas,Germination,Heavy rains in desert areas,High,Third wave likely if hoppers mature
+Fall Armyworm,Sept–Dec,Eastern,Maturity,Presence of alternate hosts,Medium,Moth lays eggs on undersides of leaves
+Corn Earworm,Jan–March,Western Kenya,Vegetative,Warm dry spells after rains,Medium,Eggs laid directly on silks
+Fall Armyworm,Aug–Oct,Central,Vegetative,Night temps > 18°C and green maize,Low,Losses exceeded 40% in some regions
+Locust,Jan–March,Rift Valley,Tasseling,Delayed aerial spraying during outbreak,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,Eastern,Maturity,Delayed aerial spraying during outbreak,High,Third wave likely if hoppers mature
+Fall Armyworm,Sept–Dec,Eastern,Seedling,March–May rains after long dry season,Low,Losses exceeded 40% in some regions
+Locust,Aug–Oct,Central,Grain filling,Migration from breeding zones,High,High impact on both pasture and crops
+Locust,Aug–Oct,Central,Silking,Rains coincided with hopper development,Low,Delayed response worsened outbreak
+Fall Armyworm,March–May,ASAL areas,Vegetative,Delayed weeding and unscouted farms,High,Larvae bore into whorl and damage leaves
+Locust,Sept–Dec,Eastern,Vegetative,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Locust,Feb–April,Coastal,Tasseling,Migration from breeding zones,High,High impact on both pasture and crops
+Fall Armyworm,March–May,Nyanza,Germination,Delayed weeding and unscouted farms,High,Larvae bore into whorl and damage leaves
+Fall Armyworm,Aug–Oct,Nyanza,Vegetative,Night temps > 18°C and green maize,Low,Larvae bore into whorl and damage leaves
+Corn Earworm,Jan–March,Eastern,Silking,Delayed planting,High,Larvae feed on silks and kernels
+Corn Earworm,March–May,Eastern,Silking,Dense weedy fields,High,Larvae feed on silks and kernels
+Corn Earworm,Sept–Dec,Coastal,Tasseling,Warm dry spells after rains,Medium,Kernel damage often seen late
+Fall Armyworm,March–May,Eastern,Vegetative,Overlapping maize stages in same field,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Oct–Nov,Coastal,Grain filling,March–May rains after long dry season,Low,Larvae bore into whorl and damage leaves
+Fall Armyworm,Sept–Dec,Western Kenya,Silking,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Corn Earworm,Sept–Dec,ASAL areas,Tasseling,Delayed planting,High,Infestation rises in dry-hot coastal areas
+Locust,Oct–Nov,Eastern,Silking,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Fall Armyworm,March–May,Coastal,Maturity,Warm temperatures with intermittent rain,Medium,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Aug–Oct,Central,Tasseling,Presence of alternate hosts,Medium,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Aug–Oct,Western Kenya,Seedling,Delayed weeding and unscouted farms,High,Moth lays eggs on undersides of leaves
+Fall Armyworm,Oct–Nov,ASAL areas,Germination,March–May rains after long dry season,Low,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Jan–March,ASAL areas,Grain filling,Warm dry spells after rains,Medium,Eggs laid directly on silks
+Corn Earworm,Jan–March,Eastern,Grain filling,No rotation with legumes or beans,Low,Outbreaks in Kilifi linked to continuous cropping
+Locust,Sept–Dec,Rift Valley,Germination,Delayed aerial spraying during outbreak,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Sept–Dec,Eastern,Germination,Repeated planting in same zone,Low,"Feeds at night, hides during day"
+Locust,Jan–March,Nyanza,Grain filling,Unusual wind patterns,Low,Swarms consumed over 100 tons of vegetation per day
+Fall Armyworm,Feb–April,ASAL areas,Grain filling,Overlapping maize stages in same field,Low,Losses exceeded 40% in some regions
+Corn Earworm,Feb–April,ASAL areas,Grain filling,Monocropping with no IPM,Low,Infestation spreads from alternate hosts
+Fall Armyworm,Aug–Oct,Coastal,Seedling,Heavy vegetative growth during rainy season,High,Eggs often missed in early crop stages
+Fall Armyworm,March–May,Coastal,Vegetative,Sowing after extended drought,Low,Eggs often missed in early crop stages
+Corn Earworm,March–May,Western Kenya,Vegetative,Warm dry spells after rains,Medium,Infestation rises in dry-hot coastal areas
+Locust,Jan–March,Coastal,Seedling,Cyclones followed by dry winds,High,Eggs laid in sandy soils
+Fall Armyworm,March–May,Western Kenya,Tasseling,Heavy vegetative growth during rainy season,High,Eggs often missed in early crop stages
+Locust,Feb–April,Eastern,Germination,Migration from breeding zones,High,Eggs laid in sandy soils
+Corn Earworm,Oct–Nov,Central,Grain filling,Dense weedy fields,High,Eggs laid directly on silks
+Fall Armyworm,Jan–March,Nyanza,Vegetative,Heavy vegetative growth during rainy season,High,Larvae bore into whorl and damage leaves
+Locust,Oct–Nov,Rift Valley,Silking,Delayed aerial spraying during outbreak,High,Swarms fly up to 150km/day
+Locust,Jan–March,Eastern,Silking,Vegetation boom after rain,High,Delayed response worsened outbreak
+Corn Earworm,Feb–April,Nyanza,Grain filling,Repeated planting in same zone,Low,"Feeds at night, hides during day"
+Corn Earworm,March–May,ASAL areas,Silking,Dense weedy fields,High,Kernel damage often seen late
+Corn Earworm,March–May,Western Kenya,Silking,Monocropping with no IPM,Low,Outbreaks in Kilifi linked to continuous cropping
+Corn Earworm,Jan–March,ASAL areas,Germination,Delayed planting,High,Eggs laid directly on silks
+Locust,March–May,ASAL areas,Tasseling,Cyclones followed by dry winds,High,High impact on both pasture and crops
+Locust,March–May,Central,Tasseling,Vegetation boom after rain,High,Eggs laid in sandy soils
+Corn Earworm,Oct–Nov,ASAL areas,Seedling,Warm dry spells after rains,Medium,Kernel damage often seen late
+Locust,Aug–Oct,Rift Valley,Grain filling,Vegetation boom after rain,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Sept–Dec,Rift Valley,Silking,No rotation with legumes or beans,Low,Larvae feed on silks and kernels
+Fall Armyworm,Oct–Nov,ASAL areas,Maturity,Warm temperatures with intermittent rain,Medium,Eggs often missed in early crop stages
+Locust,Oct–Nov,Central,Seedling,Cyclones followed by dry winds,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,March–May,Western Kenya,Maturity,Humidity and poor air flow in dense fields,High,Infestation spreads from alternate hosts
+Locust,March–May,ASAL areas,Vegetative,Delayed aerial spraying during outbreak,High,Isiolo and Garissa hit hardest in 2020
+Corn Earworm,Oct–Nov,Nyanza,Seedling,Silking coinciding with warm spells,Medium,Pesticide resistance risk
+Corn Earworm,Feb–April,ASAL areas,Maturity,Warm dry spells after rains,Medium,Eggs laid directly on silks
+Fall Armyworm,Jan–March,Nyanza,Vegetative,Warm temperatures with intermittent rain,Medium,Losses exceeded 40% in some regions
+Locust,Sept–Dec,Central,Maturity,Heavy rains in desert areas,High,Swarms consumed over 100 tons of vegetation per day
+Fall Armyworm,Feb–April,Coastal,Silking,Presence of alternate hosts,Medium,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Aug–Oct,Nyanza,Grain filling,Delayed planting,High,"Feeds at night, hides during day"
+Locust,Oct–Nov,ASAL areas,Tasseling,Unusual wind patterns,Low,Swarms fly up to 150km/day
+Locust,Oct–Nov,ASAL areas,Silking,Unusual wind patterns,Low,Swarms consumed over 100 tons of vegetation per day
+Locust,Jan–March,Western Kenya,Germination,Vegetation boom after rain,High,Swarms fly up to 150km/day
+Corn Earworm,Aug–Oct,Central,Vegetative,Repeated planting in same zone,Low,Infestation rises in dry-hot coastal areas
+Fall Armyworm,Oct–Nov,Rift Valley,Seedling,Night temps > 18°C and green maize,Low,Larvae bore into whorl and damage leaves
+Fall Armyworm,Aug–Oct,ASAL areas,Vegetative,Dry spells followed by rainfall,Low,Losses exceeded 40% in some regions
+Corn Earworm,March–May,Nyanza,Seedling,Humidity and poor air flow in dense fields,High,Larvae feed on silks and kernels
+Fall Armyworm,Jan–March,Western Kenya,Maturity,Delayed weeding and unscouted farms,High,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,March–May,Nyanza,Seedling,Night temps > 18°C and green maize,Low,Infestation reported at 47.3% in 2017 outbreak
+Corn Earworm,Jan–March,Nyanza,Seedling,Warm dry spells after rains,Medium,Infestation rises in dry-hot coastal areas
+Corn Earworm,Feb–April,ASAL areas,Seedling,Dense weedy fields,High,Kernel damage often seen late
+Fall Armyworm,Oct–Nov,ASAL areas,Seedling,Dry spells followed by rainfall,Low,Losses exceeded 40% in some regions
+Fall Armyworm,Jan–March,Rift Valley,Silking,Dry spells followed by rainfall,Low,Rapid larval spread in vegetative phase
+Corn Earworm,Jan–March,Western Kenya,Seedling,Humidity and poor air flow in dense fields,High,Larvae feed on silks and kernels
+Locust,March–May,Coastal,Maturity,Delayed aerial spraying during outbreak,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,Feb–April,ASAL areas,Grain filling,Cloud cover and poor weeding,Low,Moth lays eggs on undersides of leaves
+Locust,Feb–April,Coastal,Seedling,Unusual wind patterns,Low,Swarms fly up to 150km/day
+Corn Earworm,March–May,Eastern,Tasseling,Delayed planting,High,Outbreaks in Kilifi linked to continuous cropping
+Corn Earworm,Oct–Nov,Western Kenya,Tasseling,Dense weedy fields,High,Larvae feed on silks and kernels
+Fall Armyworm,Aug–Oct,Central,Vegetative,Dry spells followed by rainfall,Low,Larvae bore into whorl and damage leaves
+Locust,Feb–April,ASAL areas,Silking,Unusual wind patterns,Low,High impact on both pasture and crops
+Locust,March–May,Central,Seedling,Rains coincided with hopper development,Low,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,March–May,Nyanza,Vegetative,Delayed weeding and unscouted farms,High,Larvae bore into whorl and damage leaves
+Locust,Oct–Nov,Central,Silking,Hoppers matured in dry sandy soils,High,Isiolo and Garissa hit hardest in 2020
+Locust,Oct–Nov,Nyanza,Silking,Cross-border swarm movement,Very High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Oct–Nov,ASAL areas,Grain filling,No rotation with legumes or beans,Low,Infestation spreads from alternate hosts
+Corn Earworm,Oct–Nov,Central,Germination,Monocropping with no IPM,Low,Infestation spreads from alternate hosts
+Fall Armyworm,Sept–Dec,Rift Valley,Maturity,Dry spells followed by rainfall,Low,Rapid larval spread in vegetative phase
+Fall Armyworm,Feb–April,Coastal,Germination,Sowing after extended drought,Low,Eggs often missed in early crop stages
+Fall Armyworm,March–May,Eastern,Silking,Warm temperatures with intermittent rain,Medium,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Sept–Dec,Western Kenya,Tasseling,Delayed planting,High,Kernel damage often seen late
+Locust,Aug–Oct,Eastern,Maturity,Delayed aerial spraying during outbreak,High,Second-gen breeding in Turkana and Marsabit
+Locust,March–May,Central,Germination,Migration from breeding zones,High,Swarms consumed over 100 tons of vegetation per day
+Locust,March–May,Rift Valley,Germination,Delayed aerial spraying during outbreak,High,High impact on both pasture and crops
+Locust,Sept–Dec,ASAL areas,Grain filling,Rains coincided with hopper development,Low,Isiolo and Garissa hit hardest in 2020
+Locust,Oct–Nov,ASAL areas,Tasseling,Cross-border swarm movement,Very High,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,Sept–Dec,Eastern,Silking,Warm temperatures with intermittent rain,Medium,Losses exceeded 40% in some regions
+Locust,Feb–April,Coastal,Silking,Cross-border swarm movement,Very High,Third wave likely if hoppers mature
+Locust,Aug–Oct,Eastern,Seedling,Cross-border swarm movement,Very High,High impact on both pasture and crops
+Fall Armyworm,Feb–April,Eastern,Seedling,Sowing after extended drought,Low,Rapid larval spread in vegetative phase
+Locust,Oct–Nov,Rift Valley,Seedling,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Corn Earworm,Aug–Oct,ASAL areas,Silking,Humidity and poor air flow in dense fields,High,Infestation rises in dry-hot coastal areas
+Locust,Feb–April,Eastern,Seedling,Hoppers matured in dry sandy soils,High,Eggs laid in sandy soils
+Fall Armyworm,Jan–March,ASAL areas,Vegetative,Presence of alternate hosts,Medium,Larvae bore into whorl and damage leaves
+Fall Armyworm,Oct–Nov,Coastal,Germination,Night temps > 18°C and green maize,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Sept–Dec,Western Kenya,Germination,Cloud cover and poor weeding,Low,Larvae bore into whorl and damage leaves
+Fall Armyworm,March–May,Nyanza,Vegetative,Cloud cover and poor weeding,Low,Rapid larval spread in vegetative phase
+Locust,Sept–Dec,Eastern,Tasseling,Vegetation boom after rain,High,Second-gen breeding in Turkana and Marsabit
+Locust,Jan–March,ASAL areas,Germination,Cyclones followed by dry winds,High,Isiolo and Garissa hit hardest in 2020
+Corn Earworm,Feb–April,Central,Silking,Humidity and poor air flow in dense fields,High,Eggs laid directly on silks
+Locust,March–May,Rift Valley,Seedling,Unusual wind patterns,Low,High impact on both pasture and crops
+Fall Armyworm,March–May,Coastal,Tasseling,March–May rains after long dry season,Low,Infestation reported at 47.3% in 2017 outbreak
+Locust,Oct–Nov,ASAL areas,Maturity,Unusual wind patterns,Low,High impact on both pasture and crops
+Corn Earworm,Aug–Oct,Central,Grain filling,No rotation with legumes or beans,Low,Infestation rises in dry-hot coastal areas
+Fall Armyworm,Aug–Oct,Nyanza,Vegetative,Cloud cover and poor weeding,Low,Larvae bore into whorl and damage leaves
+Fall Armyworm,Feb–April,Eastern,Vegetative,Night temps > 18°C and green maize,Low,Infestation reported at 47.3% in 2017 outbreak
+Corn Earworm,Jan–March,Central,Maturity,Repeated planting in same zone,Low,Kernel damage often seen late
+Corn Earworm,Oct–Nov,Eastern,Seedling,Delayed planting,High,"Feeds at night, hides during day"
+Locust,Sept–Dec,Eastern,Silking,Cyclones followed by dry winds,High,Delayed response worsened outbreak
+Fall Armyworm,Aug–Oct,ASAL areas,Grain filling,Sowing after extended drought,Low,Losses exceeded 40% in some regions
+Fall Armyworm,Oct–Nov,Western Kenya,Seedling,Overlapping maize stages in same field,Low,Infestation reported at 47.3% in 2017 outbreak
+Locust,Feb–April,ASAL areas,Seedling,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Corn Earworm,Feb–April,Western Kenya,Maturity,Humidity and poor air flow in dense fields,High,Infestation spreads from alternate hosts
+Fall Armyworm,Oct–Nov,Coastal,Grain filling,Warm temperatures with intermittent rain,Medium,Moth lays eggs on undersides of leaves
+Corn Earworm,Aug–Oct,ASAL areas,Grain filling,Warm dry spells after rains,Medium,Larvae feed on silks and kernels
+Corn Earworm,Jan–March,Coastal,Maturity,Repeated planting in same zone,Low,Kernel damage often seen late
+Fall Armyworm,Sept–Dec,Nyanza,Silking,Sowing after extended drought,Low,"Preferred cool, cloudy environments in outbreak year"
+Corn Earworm,Jan–March,Coastal,Vegetative,Silking coinciding with warm spells,Medium,Infestation spreads from alternate hosts
+Fall Armyworm,Oct–Nov,Nyanza,Vegetative,Sowing after extended drought,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Jan–March,ASAL areas,Germination,Warm temperatures with intermittent rain,Medium,Larvae bore into whorl and damage leaves
+Fall Armyworm,Feb–April,Coastal,Vegetative,Dry spells followed by rainfall,Low,Rapid larval spread in vegetative phase
+Locust,Sept–Dec,Coastal,Silking,Hoppers matured in dry sandy soils,High,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,Feb–April,Central,Maturity,Night temps > 18°C and green maize,Low,Migrates during dry to wet transitions
+Fall Armyworm,March–May,Central,Tasseling,Cloud cover and poor weeding,Low,Moth lays eggs on undersides of leaves
+Corn Earworm,Sept–Dec,Nyanza,Seedling,Delayed planting,High,"Feeds at night, hides during day"
+Corn Earworm,March–May,ASAL areas,Seedling,High temp + maize silking,Low,Infestation spreads from alternate hosts
+Fall Armyworm,Aug–Oct,ASAL areas,Germination,Sowing after extended drought,Low,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Aug–Oct,Coastal,Maturity,Delayed weeding and unscouted farms,High,Losses exceeded 40% in some regions
+Locust,Aug–Oct,Coastal,Germination,Breeding triggered by cyclone rains in Somalia,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Jan–March,Central,Seedling,Migration from breeding zones,High,High impact on both pasture and crops
+Locust,Feb–April,Rift Valley,Vegetative,Breeding triggered by cyclone rains in Somalia,High,Third wave likely if hoppers mature
+Fall Armyworm,Jan–March,Central,Grain filling,Warm temperatures with intermittent rain,Medium,Losses exceeded 40% in some regions
+Fall Armyworm,Jan–March,Rift Valley,Germination,Overlapping maize stages in same field,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Feb–April,Rift Valley,Tasseling,Overlapping maize stages in same field,Low,Eggs often missed in early crop stages
+Corn Earworm,Jan–March,Nyanza,Seedling,Alternate hosts nearby (e.g. sorghum),Medium,Kernel damage often seen late
+Locust,Jan–March,Rift Valley,Grain filling,Cyclones followed by dry winds,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Aug–Oct,Coastal,Tasseling,Monocropping with no IPM,Low,Infestation spreads from alternate hosts
+Locust,Oct–Nov,Western Kenya,Seedling,Heavy rains in desert areas,High,Second-gen breeding in Turkana and Marsabit
+Locust,March–May,Rift Valley,Germination,Rains coincided with hopper development,Low,Eggs laid in sandy soils
+Corn Earworm,Jan–March,Western Kenya,Maturity,No rotation with legumes or beans,Low,Infestation rises in dry-hot coastal areas
+Locust,Aug–Oct,Western Kenya,Grain filling,Rains coincided with hopper development,Low,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Jan–March,Nyanza,Vegetative,Humidity and poor air flow in dense fields,High,Larvae feed on silks and kernels
+Locust,Sept–Dec,Nyanza,Seedling,Hoppers matured in dry sandy soils,High,Swarms fly up to 150km/day
+Fall Armyworm,Feb–April,Coastal,Vegetative,Sowing after extended drought,Low,Larvae bore into whorl and damage leaves
+Fall Armyworm,March–May,Rift Valley,Silking,Presence of alternate hosts,Medium,Migrates during dry to wet transitions
+Corn Earworm,Sept–Dec,ASAL areas,Silking,Delayed planting,High,Larvae feed on silks and kernels
+Corn Earworm,Jan–March,Nyanza,Maturity,Silking coinciding with warm spells,Medium,Kernel damage often seen late
+Corn Earworm,Oct–Nov,Western Kenya,Silking,Delayed planting,High,Pesticide resistance risk
+Locust,Aug–Oct,Western Kenya,Maturity,Rains coincided with hopper development,Low,Third wave likely if hoppers mature
+Fall Armyworm,Jan–March,ASAL areas,Silking,Cloud cover and poor weeding,Low,Moth lays eggs on undersides of leaves
+Locust,Aug–Oct,Eastern,Grain filling,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Locust,Sept–Dec,Coastal,Silking,Breeding triggered by cyclone rains in Somalia,High,High impact on both pasture and crops
+Fall Armyworm,Aug–Oct,Eastern,Tasseling,Presence of alternate hosts,Medium,Eggs often missed in early crop stages
+Corn Earworm,Jan–March,Coastal,Maturity,Alternate hosts nearby (e.g. sorghum),Medium,Kernel damage often seen late
+Locust,Sept–Dec,Rift Valley,Tasseling,Delayed aerial spraying during outbreak,High,Second-gen breeding in Turkana and Marsabit
+Fall Armyworm,Jan–March,ASAL areas,Vegetative,Overlapping maize stages in same field,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Sept–Dec,ASAL areas,Grain filling,Overlapping maize stages in same field,Low,Rapid larval spread in vegetative phase
+Fall Armyworm,Oct–Nov,Western Kenya,Vegetative,Dry spells followed by rainfall,Low,Losses exceeded 40% in some regions
+Corn Earworm,Feb–April,Rift Valley,Maturity,High temp + maize silking,Low,Infestation spreads from alternate hosts
+Locust,Sept–Dec,Western Kenya,Silking,Delayed aerial spraying during outbreak,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Oct–Nov,ASAL areas,Tasseling,Repeated planting in same zone,Low,Eggs laid directly on silks
+Locust,Aug–Oct,Coastal,Silking,Delayed aerial spraying during outbreak,High,Eggs laid in sandy soils
+Locust,Oct–Nov,Rift Valley,Tasseling,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Locust,Oct–Nov,Eastern,Germination,Breeding triggered by cyclone rains in Somalia,High,Third wave likely if hoppers mature
+Locust,Oct–Nov,Coastal,Germination,Unusual wind patterns,Low,High impact on both pasture and crops
+Fall Armyworm,Oct–Nov,Eastern,Maturity,Overlapping maize stages in same field,Low,Moth lays eggs on undersides of leaves
+Locust,March–May,Eastern,Tasseling,Unusual wind patterns,Low,Delayed response worsened outbreak
+Locust,Feb–April,Central,Maturity,Heavy rains in desert areas,High,Third wave likely if hoppers mature
+Locust,Oct–Nov,Nyanza,Germination,Unusual wind patterns,Low,Delayed response worsened outbreak
+Locust,Oct–Nov,Rift Valley,Seedling,Delayed aerial spraying during outbreak,High,Delayed response worsened outbreak
+Corn Earworm,Sept–Dec,Eastern,Vegetative,Dense weedy fields,High,Infestation rises in dry-hot coastal areas
+Corn Earworm,Oct–Nov,Eastern,Seedling,Monocropping with no IPM,Low,Eggs laid directly on silks
+Corn Earworm,Sept–Dec,Western Kenya,Germination,High temp + maize silking,Low,Kernel damage often seen late
+Locust,Feb–April,Rift Valley,Grain filling,Rains coincided with hopper development,Low,Third wave likely if hoppers mature
+Fall Armyworm,Oct–Nov,Coastal,Grain filling,Heavy vegetative growth during rainy season,High,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Sept–Dec,Nyanza,Germination,Night temps > 18°C and green maize,Low,Rapid larval spread in vegetative phase
+Locust,Jan–March,Western Kenya,Tasseling,Unusual wind patterns,Low,Second-gen breeding in Turkana and Marsabit
+Locust,March–May,Western Kenya,Germination,Migration from breeding zones,High,Swarms consumed over 100 tons of vegetation per day
+Corn Earworm,March–May,Nyanza,Seedling,Humidity and poor air flow in dense fields,High,"Feeds at night, hides during day"
+Locust,Feb–April,Eastern,Vegetative,Cyclones followed by dry winds,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Feb–April,Rift Valley,Tasseling,High temp + maize silking,Low,Infestation rises in dry-hot coastal areas
+Locust,Oct–Nov,Eastern,Grain filling,Unusual wind patterns,Low,Third wave likely if hoppers mature
+Fall Armyworm,Jan–March,Western Kenya,Seedling,Delayed weeding and unscouted farms,High,Losses exceeded 40% in some regions
+Fall Armyworm,Sept–Dec,ASAL areas,Seedling,March–May rains after long dry season,Low,Eggs often missed in early crop stages
+Locust,March–May,Western Kenya,Seedling,Vegetation boom after rain,High,Eggs laid in sandy soils
+Corn Earworm,Feb–April,Nyanza,Seedling,Delayed planting,High,Eggs laid directly on silks
+Fall Armyworm,Oct–Nov,Eastern,Tasseling,Cloud cover and poor weeding,Low,Rapid larval spread in vegetative phase
+Fall Armyworm,Jan–March,ASAL areas,Vegetative,Warm temperatures with intermittent rain,Medium,Eggs often missed in early crop stages
+Fall Armyworm,Sept–Dec,Western Kenya,Germination,Dry spells followed by rainfall,Low,Moth lays eggs on undersides of leaves
+Locust,March–May,Eastern,Vegetative,Heavy rains in desert areas,High,Isiolo and Garissa hit hardest in 2020
+Locust,Aug–Oct,Eastern,Grain filling,Breeding triggered by cyclone rains in Somalia,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Feb–April,Nyanza,Maturity,High temp + maize silking,Low,Pesticide resistance risk
+Locust,Aug–Oct,Western Kenya,Germination,Rains coincided with hopper development,Low,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Jan–March,Nyanza,Seedling,Humidity and poor air flow in dense fields,High,Outbreaks in Kilifi linked to continuous cropping
+Corn Earworm,Jan–March,Central,Silking,Humidity and poor air flow in dense fields,High,Infestation spreads from alternate hosts
+Corn Earworm,Feb–April,Rift Valley,Vegetative,Alternate hosts nearby (e.g. sorghum),Medium,Kernel damage often seen late
+Corn Earworm,Sept–Dec,Coastal,Silking,High temp + maize silking,Low,"Feeds at night, hides during day"
+Fall Armyworm,Oct–Nov,Western Kenya,Maturity,Overlapping maize stages in same field,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,March–May,Coastal,Tasseling,Warm temperatures with intermittent rain,Medium,Rapid larval spread in vegetative phase
+Locust,Feb–April,Western Kenya,Grain filling,Vegetation boom after rain,High,Isiolo and Garissa hit hardest in 2020
+Locust,March–May,Rift Valley,Silking,Delayed aerial spraying during outbreak,High,High impact on both pasture and crops
+Locust,March–May,Eastern,Tasseling,Breeding triggered by cyclone rains in Somalia,High,Delayed response worsened outbreak
+Fall Armyworm,Sept–Dec,Eastern,Vegetative,Delayed weeding and unscouted farms,High,Larvae bore into whorl and damage leaves
+Locust,Feb–April,Central,Silking,Rains coincided with hopper development,Low,Eggs laid in sandy soils
+Corn Earworm,Oct–Nov,ASAL areas,Silking,No rotation with legumes or beans,Low,Pesticide resistance risk
+Corn Earworm,Oct–Nov,Eastern,Seedling,No rotation with legumes or beans,Low,Larvae feed on silks and kernels
+Fall Armyworm,Oct–Nov,Central,Grain filling,Presence of alternate hosts,Medium,Rapid larval spread in vegetative phase
+Fall Armyworm,Jan–March,Coastal,Seedling,Dry spells followed by rainfall,Low,Losses exceeded 40% in some regions
+Corn Earworm,Aug–Oct,Eastern,Tasseling,Repeated planting in same zone,Low,"Feeds at night, hides during day"
+Fall Armyworm,Oct–Nov,Western Kenya,Silking,Sowing after extended drought,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Sept–Dec,Nyanza,Tasseling,Night temps > 18°C and green maize,Low,Rapid larval spread in vegetative phase
+Locust,Jan–March,Rift Valley,Seedling,Heavy rains in desert areas,High,Swarms consumed over 100 tons of vegetation per day
+Locust,Feb–April,Eastern,Germination,Hoppers matured in dry sandy soils,High,Eggs laid in sandy soils
+Corn Earworm,March–May,Nyanza,Tasseling,Silking coinciding with warm spells,Medium,"Feeds at night, hides during day"
+Locust,Aug–Oct,Central,Grain filling,Cyclones followed by dry winds,High,High impact on both pasture and crops
+Corn Earworm,Oct–Nov,Western Kenya,Seedling,Humidity and poor air flow in dense fields,High,"Feeds at night, hides during day"
+Fall Armyworm,Jan–March,Coastal,Vegetative,March–May rains after long dry season,Low,Losses exceeded 40% in some regions
+Fall Armyworm,Aug–Oct,Western Kenya,Seedling,Night temps > 18°C and green maize,Low,Moth lays eggs on undersides of leaves
+Fall Armyworm,Aug–Oct,Western Kenya,Vegetative,Sowing after extended drought,Low,Infestation reported at 47.3% in 2017 outbreak
+Locust,March–May,Western Kenya,Seedling,Hoppers matured in dry sandy soils,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,Jan–March,Eastern,Maturity,Warm temperatures with intermittent rain,Medium,Migrates during dry to wet transitions
+Locust,Jan–March,Nyanza,Seedling,Breeding triggered by cyclone rains in Somalia,High,Second-gen breeding in Turkana and Marsabit
+Locust,Feb–April,Eastern,Germination,Heavy rains in desert areas,High,Swarms fly up to 150km/day
+Corn Earworm,Feb–April,ASAL areas,Vegetative,Humidity and poor air flow in dense fields,High,Infestation rises in dry-hot coastal areas
+Fall Armyworm,Feb–April,Eastern,Tasseling,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Locust,Aug–Oct,Eastern,Germination,Heavy rains in desert areas,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,Sept–Dec,Nyanza,Tasseling,Delayed weeding and unscouted farms,High,Infestation reported at 47.3% in 2017 outbreak
+Locust,Sept–Dec,ASAL areas,Germination,Heavy rains in desert areas,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,March–May,ASAL areas,Grain filling,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Locust,Oct–Nov,Coastal,Grain filling,Heavy rains in desert areas,High,Third wave likely if hoppers mature
+Locust,Aug–Oct,Nyanza,Germination,Cross-border swarm movement,Very High,Swarms fly up to 150km/day
+Fall Armyworm,March–May,Central,Grain filling,Heavy vegetative growth during rainy season,High,Losses exceeded 40% in some regions
+Locust,Sept–Dec,Eastern,Silking,Heavy rains in desert areas,High,Eggs laid in sandy soils
+Corn Earworm,Jan–March,ASAL areas,Germination,Alternate hosts nearby (e.g. sorghum),Medium,Pesticide resistance risk
+Locust,March–May,ASAL areas,Germination,Heavy rains in desert areas,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,March–May,ASAL areas,Maturity,Humidity and poor air flow in dense fields,High,Larvae feed on silks and kernels
+Locust,Aug–Oct,Nyanza,Tasseling,Unusual wind patterns,Low,High impact on both pasture and crops
+Fall Armyworm,Sept–Dec,Nyanza,Seedling,Warm temperatures with intermittent rain,Medium,Eggs often missed in early crop stages
+Locust,Feb–April,Central,Germination,Unusual wind patterns,Low,High impact on both pasture and crops
+Locust,Oct–Nov,Coastal,Vegetative,Heavy rains in desert areas,High,Swarms fly up to 150km/day
+Locust,Aug–Oct,Eastern,Vegetative,Hoppers matured in dry sandy soils,High,Third wave likely if hoppers mature
+Locust,Feb–April,Eastern,Maturity,Vegetation boom after rain,High,Third wave likely if hoppers mature
+Fall Armyworm,Oct–Nov,Eastern,Grain filling,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Fall Armyworm,Sept–Dec,Rift Valley,Seedling,Presence of alternate hosts,Medium,Moth lays eggs on undersides of leaves
+Locust,Sept–Dec,ASAL areas,Tasseling,Delayed aerial spraying during outbreak,High,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Aug–Oct,Nyanza,Maturity,Monocropping with no IPM,Low,Pesticide resistance risk
+Fall Armyworm,Aug–Oct,Rift Valley,Grain filling,Dry spells followed by rainfall,Low,Eggs often missed in early crop stages
+Fall Armyworm,Oct–Nov,Nyanza,Grain filling,Presence of alternate hosts,Medium,Migrates during dry to wet transitions
+Corn Earworm,March–May,ASAL areas,Silking,Dense weedy fields,High,"Feeds at night, hides during day"
+Corn Earworm,Feb–April,Coastal,Grain filling,Dense weedy fields,High,Kernel damage often seen late
+Corn Earworm,Sept–Dec,Rift Valley,Grain filling,Alternate hosts nearby (e.g. sorghum),Medium,Pesticide resistance risk
+Corn Earworm,Jan–March,Coastal,Maturity,Silking coinciding with warm spells,Medium,Outbreaks in Kilifi linked to continuous cropping
+Fall Armyworm,March–May,ASAL areas,Grain filling,Delayed weeding and unscouted farms,High,"Preferred cool, cloudy environments in outbreak year"
+Fall Armyworm,Oct–Nov,Western Kenya,Silking,Night temps > 18°C and green maize,Low,Infestation reported at 47.3% in 2017 outbreak
+Fall Armyworm,Jan–March,Rift Valley,Grain filling,Heavy vegetative growth during rainy season,High,Larvae bore into whorl and damage leaves
+Fall Armyworm,Aug–Oct,Central,Germination,Dry spells followed by rainfall,Low,Migrates during dry to wet transitions
+Corn Earworm,Sept–Dec,Eastern,Seedling,Delayed planting,High,Outbreaks in Kilifi linked to continuous cropping
+Locust,Aug–Oct,Nyanza,Vegetative,Breeding triggered by cyclone rains in Somalia,High,Third wave likely if hoppers mature
+Corn Earworm,Sept–Dec,ASAL areas,Tasseling,Monocropping with no IPM,Low,Infestation rises in dry-hot coastal areas
+Fall Armyworm,Aug–Oct,ASAL areas,Vegetative,March–May rains after long dry season,Low,Losses exceeded 40% in some regions
+Locust,Sept–Dec,Central,Silking,Heavy rains in desert areas,High,Swarms fly up to 150km/day
+Locust,Jan–March,Eastern,Germination,Rains coincided with hopper development,Low,Second-gen breeding in Turkana and Marsabit
+Corn Earworm,Oct–Nov,ASAL areas,Silking,High temp + maize silking,Low,"Feeds at night, hides during day"
+Locust,Oct–Nov,Coastal,Germination,Vegetation boom after rain,High,High impact on both pasture and crops
+Corn Earworm,Sept–Dec,Nyanza,Vegetative,Monocropping with no IPM,Low,Larvae feed on silks and kernels
+Fall Armyworm,Feb–April,Nyanza,Silking,Sowing after extended drought,Low,"Preferred cool, cloudy environments in outbreak year"
+Locust,Sept–Dec,Central,Grain filling,Migration from breeding zones,High,Isiolo and Garissa hit hardest in 2020
+Fall Armyworm,Sept–Dec,Central,Germination,Cloud cover and poor weeding,Low,Larvae bore into whorl and damage leaves
+Locust,Aug–Oct,Eastern,Germination,Migration from breeding zones,High,Delayed response worsened outbreak
+Locust,Feb–April,ASAL areas,Vegetative,Cyclones followed by dry winds,High,Isiolo and Garissa hit hardest in 2020
+Locust,March–May,Nyanza,Silking,Cross-border swarm movement,Very High,Swarms consumed over 100 tons of vegetation per day
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
+Fall Armyworm,March–May,Western,Vegetative,March–May rains after long dry season,Very High,47.3% infestation reported during outbreak
+Locust,Feb–April,Eastern,Tasseling,Cross-border swarm movement after breeding,Very High,Swarms matured in Isiolo and Garissa
+Corn Earworm,March–May,Coastal,Silking,Silking coinciding with warm spells,Medium,Ears were affected in Kilifi region
